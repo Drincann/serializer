@@ -1,6 +1,6 @@
 # serializer
 
-一个简单的 JavaScript 的对象序列化器实现
+一个简单的 JavaScript 对象序列化器实现
 
 ## usage
 
